@@ -75,6 +75,7 @@
             this.Controls.Add(this.btnHelloWorld);
             this.Controls.Add(this.lblHelloWorld);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Location = new System.Drawing.Point(90, 45);
             this.MaximumSize = new System.Drawing.Size(1000, 450);
             this.MinimumSize = new System.Drawing.Size(400, 350);
