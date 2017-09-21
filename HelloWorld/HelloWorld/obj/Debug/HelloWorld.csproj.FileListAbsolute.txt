@@ -8,3 +8,12 @@ C:\Users\thuchanh\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\He
 C:\Users\thuchanh\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\thuchanh\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\thuchanh\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmHelloWorld.resources
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\admin\Documents\GitHub\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
