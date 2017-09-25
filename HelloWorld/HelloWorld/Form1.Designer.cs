@@ -35,8 +35,9 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(25, 85);
+            this.label1.Location = new System.Drawing.Point(24, 42);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.label1.Size = new System.Drawing.Size(0, 13);
@@ -45,7 +46,8 @@
             // 
             // btnHelloWorld
             // 
-            this.btnHelloWorld.Location = new System.Drawing.Point(115, 372);
+            this.btnHelloWorld.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.btnHelloWorld.Location = new System.Drawing.Point(116, 175);
             this.btnHelloWorld.Name = "btnHelloWorld";
             this.btnHelloWorld.Size = new System.Drawing.Size(110, 24);
             this.btnHelloWorld.TabIndex = 1;
@@ -55,10 +57,11 @@
             // 
             // lblHelloWorld
             // 
+            this.lblHelloWorld.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblHelloWorld.AutoSize = true;
             this.lblHelloWorld.Font = new System.Drawing.Font("Lucida Sans Unicode", 36F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHelloWorld.ForeColor = System.Drawing.Color.DarkBlue;
-            this.lblHelloWorld.Location = new System.Drawing.Point(25, 110);
+            this.lblHelloWorld.Location = new System.Drawing.Point(24, 67);
             this.lblHelloWorld.Name = "lblHelloWorld";
             this.lblHelloWorld.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.lblHelloWorld.Size = new System.Drawing.Size(0, 59);
@@ -70,15 +73,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(734, 408);
+            this.ClientSize = new System.Drawing.Size(362, 211);
             this.Controls.Add(this.btnHelloWorld);
             this.Controls.Add(this.lblHelloWorld);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Location = new System.Drawing.Point(90, 45);
-            this.MaximumSize = new System.Drawing.Size(1000, 450);
-            this.MinimumSize = new System.Drawing.Size(400, 350);
+            this.MinimumSize = new System.Drawing.Size(300, 250);
             this.Name = "frmHelloWorld";
             this.Text = "HelloWorld";
             this.Load += new System.EventHandler(this.frmHelloWorld_Load);
